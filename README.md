@@ -195,3 +195,8 @@ Open [`docs/index.html`](docs/index.html) in your browser for the full interacti
   <em>Think about your thinking. Learn about your learning. Decide about your deciding.</em><br>
   MIT License
 </p>
+
+
+---
+
+Maintained by [TalentOS](https://www.agentbay.asia) · 需要定制 Agent / 技能开发？[找我们定制 / Work with us](https://www.agentbay.asia/contact) · talentos@agentbay.asia
